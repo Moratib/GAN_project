@@ -13,7 +13,7 @@ import numpy as np # Provides numerical computing functions (arrays, matrices, e
 # Import specific components from Keras
 from keras import backend as K # Accesses backend functions (e.g., for loss calculation)
 
-# Load MNIST dataset (images of handwritten digits 0-9)
+
 #from keras.datasets import mnist # Provides access to pre-loaded datasets
 
 # Import various building blocks for neural network layers
